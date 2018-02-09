@@ -1,0 +1,37 @@
+
+{% extends "base.html" %}
+{% block title %}Login{% endblock %}
+{% block content %}
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <h3>
+            PartyGo Login
+        </h3>
+        
+        
+        
+        {% from "_formhelper.html" import render_field %}
+        <form method="POST">
+            
+            {{ form.csrf_token }}
+            {{ render_field(form.email, class="form-control", placeholder="Enter your email") }}
+            {{ render_field(form.password, class="form-control" )}}
+            
+            <button type="submit" class="btn btn-success">
+                Login
+            </button>
+        </form>
+      
+     <hr>
+      <div class="text-center">
+        <p>
+          Not registered? Sign up first.
+        </p>
+        <a href="{{url_for('user_page.signup')}}" class="btn btn-success"> Sign up </a>
+        
+      </div>
+      
+      
+    </div>   
+</div>
+{% endblock %}

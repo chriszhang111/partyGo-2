@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "partygo-193118",
+  "private_key_id": "d044448edc3413ba5a0648bfbe7486b5220828ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCx6roF8bJb/cFZ\nNTx3L7aLxuL8nZxnshabVF3cogGvlj67HGvzULzNSboWJTMjwc/+v/h8NPNM5wRY\nQw1Jevj/g9WJw+OqilbgxBFAQi/3aT1CdibfZKX9C5CfGE5QmTszQI+cdTbUJqM6\nW+Lvp8kfPCNVpr0WvqEHQvTLPuMRQRco1L5Ez3V0k0QIScnhPtB2zunW4XotXql+\n0DxvPefANrcE1GBn1FEFFV/y6+fKfwRmQoMBX91Yt0EqztgwY/RCTXvdcMbkH4SX\nFL3STcNjGRN3Z3Rq8gn8L7x6T6VjxvefzDLFAn/EbRgSIbFV0nM+f9Bm/msxCvnO\nrSDqVBdfAgMBAAECggEABlCEZa2cXPN2p0niaYCCBBf8+mZFpNCHSOAHrMr7MFYu\nx8lMc4hMCyUwu5R6aix4y1vY39+pOvOADfnjQNZie/8b1xXiwKzERJnw2sz+ktNj\nXzZ+TrNtyLteWKcuMGIf3cPO1Qi792+fn3Sfa04TL06dGm8eiu4dHPrdYVFMEdKk\nR3s2knmn5R/t5vQJQov4riYgu7GaGlKU9A+sNLYCBXaOIHWxNJGG+9VSBlwTlf6c\n6Tm96aQL9INTuarILyq31IDENWl4f2rY0OZK6XBv4Y3o84JTwI1wA3ZU90xSsvIt\nEN8rL2TG/kr4SCPKRghjjk/oeC/3YCiJ0JaMGwLIwQKBgQD2ZtH4zpnQqZLvP2Yq\n3R37BEipKXzHFUk2gv5ndCmijzAy3LrJ+DkPgOefym9ZiPMKB119t0aKAIPfCWba\nOfVOdCFd/PHw78Djtal3sALPcueIfJaL1ljxGWVdqFyAOLysOyj4pte5ghw3CMK4\nP1LN70uUGphiH7klNIahyRgQ8QKBgQC42PWO5/yXf/WnAzpTOwXYE1fuJtzoXxt4\n2yxFo+NSrVR75oYk0z2Ir4JK3oPTXbNHppT935Cs3zaorgHfXxw2gpr6o1ZX8q5J\nTO+WSYu+OtZbf2huwc/YSqY5OGJOaTzrvtxzujyPxYMA1PlztuS57G3SMJ2NyVmJ\noyKtn7StTwKBgBmfYZBM86PGLnhgkGA+tCJpNKEaplYReZaIkqnxY277EtkHKQld\nnZlmHy/3nhKichuF3ov3JgetvAjScnaY9lBdNScP6ZzTYayMNH40uGYYHcmMox8R\ngBg6Otc9bbkLrVr/n+gTeXVZ+VMjvxPnydWOX76b8WKqx9b9mk5ymeURAoGBAKEx\n2hoQJg77sH4/a1pviy4d2D0/OL+PSMbA4r+sJq3Pp3AQ3IQ6jlunKgkeOHlXKeNe\n2mj10BVg5ip86/cd2t2SUZImZEJ3yBL1+6zkX++5IXtTBQApFZZ5qrEVgWz9ivnO\nTDLDgtKhnBdaolqNcLLOAgsdCBhAMUu8rp4YOpgzAoGAegvAJSTSd+e3jnvKA4FV\nCI3wOqc6leKTf6bU11jZW6Pl8Z7QBQ8yU/VNVOqFqNp662YPVkR6Dum0cvIKeBMb\nm9ge0ErIywdFg5XG0D8qB5DqTbZq6Ubii6MxtK4C705cU4ILsSnsoBtcuJ8j33rr\nlFhNGWuymlhFydYDYvlIn4s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "partygo-storage-creds@partygo-193118.iam.gserviceaccount.com",
+  "client_id": "110155318107749147706",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/partygo-storage-creds%40partygo-193118.iam.gserviceaccount.com"
+}

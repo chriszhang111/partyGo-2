@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Hello{% endblock %}
+{% block content %}
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+      <div class="text-center">
+        {% if user.profile_image %}
+        <img width="150px" height="150px" src="{{user.profile_image}}" class="img-thumbnail rounded-circle">
+        
+      {% endif %}
+        
+         <h3>
+            Hello,{{name}} How are you
+        </h3>
+        
+      </div>
+      
+       
+      
+      
+        
+        
+        
+     
+    </div>   
+</div>
+{% endblock %}
+

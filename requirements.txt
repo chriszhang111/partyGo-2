@@ -1,0 +1,5 @@
+Flask==0.12.2
+flask_mongoengine==0.9.3
+py-bcrypt==0.4
+google-cloud==0.29.0
+gunicorn==19.7.1

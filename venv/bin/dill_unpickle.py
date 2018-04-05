@@ -1,4 +1,4 @@
-#!/home/cabox/workspace/partyGo/venv/bin/python3
+#!/Users/chris/partyGo-2/venv/bin/python3.5
 #
 # Author: Mike McKerns (mmckerns @caltech and @uqfoundation)
 # Copyright (c) 2008-2016 California Institute of Technology.

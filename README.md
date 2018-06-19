@@ -1,10 +1,12 @@
 #partyGo-2
->Designed and Implemented a web application platform (Python Flask) that could allow users to organize
-event or join event based on their geographic location.  
 
->Utilized Google Cloud Storage to store the picture uploaded by users and utilized Google Place API to
-fetch the location information.  
+• Designed and created a web application with Python Flask that allows users to organize, join in, search events or
+parties based on the geographic location choose by user  
 
->Utilized MongoDB to store user and event information, developed the frontend using JinJa2
-template,Bootstrap, HTML, CSS and Javascript.  
+• Utilized Google Cloud Storage to store pictures uploaded by users and Google Place API to fetch the location
+information  
+
+• Used MongoDB to store user and event information, built the frontend using JinJa2 template, Bootstrap, HTML,
+CSS and JavaScript, deployed on heroku: http://app-party-v1.herokuapp.com.    
+
 
